@@ -1,0 +1,7 @@
+{
+  "name": "Review System",
+  "version": "1.0.0",
+  "description": "Review system",
+  "main": "index.js",
+  "license": "MIT"
+}
